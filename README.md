@@ -5,7 +5,7 @@ Instructions for compiling freeglut versions
 Freeglut can be installed directly from package managers on the following systems: 
 - **macOS** via `brew install freeglut`,
 - **Debian, Ubuntu, Linux Mint, etc.** via `apt install freeglut`,
-- **Arch Linux** via `{bash}pacman -S freeglut`
+- **Arch Linux** via `pacman -S freeglut`
 
 For more detailed instructions, please follow the tutorials on the freeglut project website: [Freeglut project](https://freeglut.sourceforge.net/index.php#download) or in the documentation for your package manager and the associated repositories.
 
