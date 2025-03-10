@@ -14,6 +14,7 @@ For more detailed instructions, please follow the tutorials on the freeglut proj
 2. Download the source code from the Freeglut [wesbite](https://freeglut.sourceforge.net/index.php#download)
 3. Extract the code using: `tar -xvf freeglut-*.tar`
 4. Enter the directory of the extracted project: `cd freeglut-*`
-5. Run `cmake .`
-6. Run `make`
-7. Run `make install`
+5. Create a build directory and cd into it: `mkdir build && cd build`
+6. Run the following to generate a makefile `cmake ..`
+7. Run `make`
+8. Run the install hook `sudo make install`
